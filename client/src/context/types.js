@@ -1,0 +1,9 @@
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const SET_CURRENT = 'ADD_CONTACT';
+export const CLEAR_CURRENT = 'ADD_CONTACT';
+export const UPDATE_CONTACT = 'ADD_CONTACT';
+export const FILTER_CONTACTS = 'ADD_CONTACT';
+export const CLEAR_FILTER = 'ADD_CONTACT';
+export const SET_ALERT = 'ADD_CONTACT';
+export const REMOVE_ALERT = 'ADD_CONTACT';
