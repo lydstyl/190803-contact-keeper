@@ -1,8 +1,6 @@
 import React, { useContext } from 'react';
 import ContactContext from '../../context/contact/contactContext';
-
 import PropTypes from 'prop-types';
-import { set } from 'mongoose';
 
 const ContactItem = ({ contact }) => {
   const contactContext = useContext(ContactContext);
